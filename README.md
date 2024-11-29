@@ -19,5 +19,18 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-0F1018?style=for-the-badge&logo=adobeillustrator)
 ![AfterEffects](https://img.shields.io/badge/Aftereffects-0F1018?style=for-the-badge&logo=adobeaftereffects)
 
-## My Social Media
-![Instagram](https://img.shields.io/badge/Instagram-0F1018?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Faki.neyshen%2F)
+## Portfolio Graphic Design
+[![Behance](https://img.shields.io/badge/Behance-0F1018?style=for-the-badge&logo=behance)](https://www.behance.net/akineyshen/appreciated)
+![Dribbble](https://img.shields.io/badge/dribbble-0F1018?style=for-the-badge&logo=dribbble)
+
+
+
+## Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-0F1018?style=for-the-badge&logo=Instagram)](https://www.instagram.com/aki.neyshen/)
+[![Facebook](https://img.shields.io/badge/Facebook-0F1018?style=for-the-badge&logo=Facebook&logoColor=0C71F3)](https://www.facebook.com/akineyshen)
+[![Telegram](https://img.shields.io/badge/Telegram-0F1018?style=for-the-badge&logo=Telegram)](https://t.me/Akineyshen)
+[![Linkedin](https://img.shields.io/badge/linkedin-0F1018?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/akineyshen/)
+
+
+
+
