@@ -3,15 +3,17 @@
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
 ## Stack:
-![Languages](https://img.shields.io/badge/🌐_Languages:-FCFCFC?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-FCFCFC?style=for-the-badge&logo=css3&logoColor=264DE4)
-
-![Frameworks/Libraries](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Frameworks%2FLibraries:-FCFCFC?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-FCFCFC?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-FCFCFC?style=for-the-badge&logo=nodedotjs)
+![OracleSQL](https://img.shields.io/badge/SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
+![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
+
+
 
 
 
