@@ -11,7 +11,6 @@
 ![Git](https://img.shields.io/badge/Git-0F1018?style=for-the-badge&logo=Git)
 ![Java](https://img.shields.io/badge/JAVA-0F1018?style=for-the-badge)
 
-
 ## Programs
 ![JetBrains](https://img.shields.io/badge/JetBrains-0F1018?style=for-the-badge&logo=JetBrains)
 ![Figma](https://img.shields.io/badge/Figma-0F1018?style=for-the-badge&logo=Figma)
@@ -20,10 +19,5 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-0F1018?style=for-the-badge&logo=adobeillustrator)
 ![AfterEffects](https://img.shields.io/badge/Aftereffects-0F1018?style=for-the-badge&logo=adobeaftereffects)
 
-
-
-
-
-
-
-My Social Media
+## My Social Media
+![Instagram](https://img.shields.io/badge/Instagram-0F1018?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Faki.neyshen%2F)
