@@ -2,7 +2,7 @@
 
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
-## Stack:
+## 🖥️ Stack:
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
@@ -13,23 +13,17 @@
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
 
+## 📂 Programs
+![JetBrains](https://img.shields.io/badge/JetBrains-FCFCFC?style=for-the-badge&logo=jetbrains&logoColor=000)
+![VisualStudioCode](https://img.shields.io/badge/VS%20Code-FCFCFC?style=for-the-badge&logo=lintcode)
+![Figma](https://img.shields.io/badge/Figma-FCFCFC?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-FCFCFC?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-FCFCFC?style=for-the-badge&logo=adobeillustrator)
+![AfterEffcets](https://img.shields.io/badge/AfterEffects-FCFCFC?style=for-the-badge&logo=adobeaftereffects)
 
-
-
-
-
-## Programs
-![JetBrains](https://img.shields.io/badge/JetBrains-0F1018?style=for-the-badge&logo=JetBrains)
-![Figma](https://img.shields.io/badge/Figma-0F1018?style=for-the-badge&logo=Figma)
-![Blender](https://img.shields.io/badge/Blender-0F1018?style=for-the-badge&logo=blender)
-![Photoshop](https://img.shields.io/badge/Photoshop-0F1018?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-0F1018?style=for-the-badge&logo=adobeillustrator)
-![AfterEffects](https://img.shields.io/badge/Aftereffects-0F1018?style=for-the-badge&logo=adobeaftereffects)
-
-## Portfolio Graphic Design
-[![Behance](https://img.shields.io/badge/Behance-0F1018?style=for-the-badge&logo=behance)](https://www.behance.net/akineyshen/appreciated)
-![Dribbble](https://img.shields.io/badge/dribbble-0F1018?style=for-the-badge&logo=dribbble)
-
+## 🖌️ Design Portfolio
+[![Behance](https://img.shields.io/badge/behance-FCFCFC?style=for-the-badge&logo=behance&logoColor=0057FF)](https://www.behance.net/akineyshen/appreciated)
+![Dribbble](https://img.shields.io/badge/dribbble-FCFCFC?style=for-the-badge&logo=dribbble)
 
 
 ## Social Media
