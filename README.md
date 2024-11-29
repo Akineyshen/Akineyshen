@@ -3,13 +3,13 @@
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
 ## Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-f4f4f4?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/React-f4f4f4?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/html-f4f4f4?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-f4f4f4?style=for-the-badge&logo=css3&logoColor=214CE5)
-![SQL](https://img.shields.io/badge/SQL-f4f4f4?style=for-the-badge&logo=oracle&logoColor=000)
-![Git](https://img.shields.io/badge/Git-f4f4f4?style=for-the-badge&logo=Git)
-![Java](https://img.shields.io/badge/JAVA-f4f4f4?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFEFE?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-FFFEFE?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/html-FFFEFE?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-FFFEFE?style=for-the-badge&logo=css3&logoColor=214CE5)
+![SQL](https://img.shields.io/badge/SQL-FFFEFE?style=for-the-badge&logo=oracle&logoColor=000)
+![Git](https://img.shields.io/badge/Git-FFFEFE?style=for-the-badge&logo=Git)
+![Java](https://img.shields.io/badge/JAVA-FFFEFE?style=for-the-badge)
 
 ## Programs
 ![JetBrains](https://img.shields.io/badge/JetBrains-0F1018?style=for-the-badge&logo=JetBrains)
