@@ -2,9 +2,8 @@
 
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
-## Stack:
 <details>
-  <summary><h2>Нажмите, чтобы открыть информацию</h2></summary>
+  <summary><h2>💻 Stack</h2></summary>
 
 
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
