@@ -1,4 +1,4 @@
-# Welcome to My Profile
+![Image](image/Visit.png)
 
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
