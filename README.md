@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
 
-## Programs
+## ᴘʀᴏɢʀᴀᴍꜱ
 ![JetBrains](https://img.shields.io/badge/JetBrains-FCFCFC?style=for-the-badge&logo=jetbrains&logoColor=000)
 ![VisualStudioCode](https://img.shields.io/badge/VS%20Code-FCFCFC?style=for-the-badge&logo=lintcode)
 ![Figma](https://img.shields.io/badge/Figma-FCFCFC?style=for-the-badge&logo=figma)
@@ -21,18 +21,16 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FCFCFC?style=for-the-badge&logo=adobeillustrator)
 ![AfterEffcets](https://img.shields.io/badge/AfterEffects-FCFCFC?style=for-the-badge&logo=adobeaftereffects)
 
-## Design Portfolio
+## ᴅᴇꜱɪɢɴ ᴘᴏʀᴛꜰᴏʟɪᴏ
 [![Behance](https://img.shields.io/badge/behance-FCFCFC?style=for-the-badge&logo=behance&logoColor=0057FF)](https://www.behance.net/akineyshen/appreciated)
 ![Dribbble](https://img.shields.io/badge/dribbble-FCFCFC?style=for-the-badge&logo=dribbble)
 
 
-## Social Media
+## ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 [![Linkedin](https://img.shields.io/badge/linkedin-FCFCFC?style=for-the-badge&logo=linkedin&logoColor=015E94)](https://www.linkedin.com/in/akineyshen/)
 [![Telegram](https://img.shields.io/badge/telegram-FCFCFC?style=for-the-badge&logo=telegram)](https://t.me/Akineyshen)
 [![Instagram](https://img.shields.io/badge/instagram-FCFCFC?style=for-the-badge&logo=instagram)](https://www.instagram.com/aki.neyshen/)
 [![Facebook](https://img.shields.io/badge/facebook-FCFCFC?style=for-the-badge&logo=facebook&logoColor=0056A1)](https://www.facebook.com/akineyshen)
-
-
 
 
 ## Statistics
