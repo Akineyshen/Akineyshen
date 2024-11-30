@@ -1,4 +1,4 @@
-![Image](image/Visit.png)
+![Image](image/image.png)
 
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
