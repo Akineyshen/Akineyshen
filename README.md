@@ -3,12 +3,14 @@
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
 <details>
-  <summary><h2>📚 Stack</h2></summary>
+  <summary><h2>📚 ꜱᴛᴀᴄᴋ</h2></summary>
 
+![Static Badge](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages:-FCFCFC?style=for-the-badge&logo=Java)
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-FCFCFC?style=for-the-badge&logo=css3&logoColor=264DE4)
+
 ![React](https://img.shields.io/badge/React-FCFCFC?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-FCFCFC?style=for-the-badge&logo=nodedotjs)
 ![OracleSQL](https://img.shields.io/badge/SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
