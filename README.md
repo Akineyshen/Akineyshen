@@ -5,7 +5,7 @@
 <details>
   <summary><h1>📚 ꜱᴛᴀᴄᴋ</h1></summary>
 
-![Static Badge](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages:-FCFCFC?style=for-the-badge&logo=Java)
+![Static Badge](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages%3A-1E3A8A?style=for-the-badge&logo=Java)
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
