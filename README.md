@@ -29,7 +29,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-FCFCFC?style=for-the-badge&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FCFCFC?style=for-the-badge&logo=adobeillustrator)
 
-![Video](https://img.shields.io/badge/%F0%9F%8E%AC%20Video%3A-74B3F4?style=for-the-badge)
+![Video](https://img.shields.io/badge/%F0%9F%8E%AC%20Video%3A-6FA8F4?style=for-the-badge)
 ![AfterEffcets](https://img.shields.io/badge/AfterEffects-FCFCFC?style=for-the-badge&logo=adobeaftereffects)
 ![Filmora](https://img.shields.io/badge/Filmora-FCFCFC?style=for-the-badge&logo=wondersharefilmora&logoColor=%2307273D)
 
