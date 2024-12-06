@@ -1,6 +1,6 @@
 ![Image](GIF/BannerGitHub.gif)
 
-## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
+## Student at Bialystok University of Technology, studying full-stack development, Java, and Graphic Design.
 
 <details>
   <summary><h2>📚 ꜱᴛᴀᴄᴋ</h2></summary>
