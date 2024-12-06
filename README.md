@@ -42,14 +42,14 @@
 ![Dribbble](https://img.shields.io/badge/dribbble-FCFCFC?style=for-the-badge&logo=dribbble)
 
 
-## ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
+## 📱 ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 [![Linkedin](https://img.shields.io/badge/linkedin-FCFCFC?style=for-the-badge&logo=linkedin&logoColor=015E94)](https://www.linkedin.com/in/akineyshen/)
 [![Telegram](https://img.shields.io/badge/telegram-FCFCFC?style=for-the-badge&logo=telegram)](https://t.me/Akineyshen)
 [![Instagram](https://img.shields.io/badge/instagram-FCFCFC?style=for-the-badge&logo=instagram)](https://www.instagram.com/aki.neyshen/)
 [![Facebook](https://img.shields.io/badge/facebook-FCFCFC?style=for-the-badge&logo=facebook&logoColor=0056A1)](https://www.facebook.com/akineyshen)
 
 
-## ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ
+## 📊 ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akineyshen&show_icons=true&card_width=450"/>
 </a>
