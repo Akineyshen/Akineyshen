@@ -16,18 +16,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-FCFCFC?style=for-the-badge&logo=nodedotjs)
 ![Django](https://img.shields.io/badge/django-FCFCFC?style=for-the-badge&logo=django&logoColor=092E20)
 
-![Databases](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Databases%3A-3B82F6?style=for-the-badge)
-![OracleSQL](https://img.shields.io/badge/Oracle_SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
-
-![Static Badge](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Tools%20and%20Systems%3A-4F99F2?style=for-the-badge)
+![Tools](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Tools%20and%20Systems%3A-4F99F2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
 
-## ᴘʀᴏɢʀᴀᴍꜱ
-![Code](https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20code%3A-60A5FA?style=for-the-badge)
-![JetBrains](https://img.shields.io/badge/JetBrains-FCFCFC?style=for-the-badge&logo=jetbrains&logoColor=000)
-![VisualStudioCode](https://img.shields.io/badge/VS%20Code-FCFCFC?style=for-the-badge&logo=lintcode)
+![Databases](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Databases%3A-3B82F6?style=for-the-badge)
+![OracleSQL](https://img.shields.io/badge/Oracle_SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
 
+## ᴘʀᴏɢʀᴀᴍꜱ
 ![Design](https://img.shields.io/badge/%F0%9F%8E%A8%20Design%3A-74B4F3?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-FCFCFC?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/Photoshop-FCFCFC?style=for-the-badge&logo=adobephotoshop)
@@ -36,6 +32,10 @@
 ![Video](https://img.shields.io/badge/%F0%9F%8E%AC%20Video%3A-7BB9F4?style=for-the-badge)
 ![AfterEffcets](https://img.shields.io/badge/AfterEffects-FCFCFC?style=for-the-badge&logo=adobeaftereffects)
 ![Filmora](https://img.shields.io/badge/Filmora-FCFCFC?style=for-the-badge&logo=wondersharefilmora&logoColor=%2307273D)
+
+![Code](https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20code%3A-60A5FA?style=for-the-badge)
+![JetBrains](https://img.shields.io/badge/JetBrains-FCFCFC?style=for-the-badge&logo=jetbrains&logoColor=000)
+![VisualStudioCode](https://img.shields.io/badge/VS%20Code-FCFCFC?style=for-the-badge&logo=lintcode)
 
 ## ᴅᴇꜱɪɢɴ ᴘᴏʀᴛꜰᴏʟɪᴏ
 [![Behance](https://img.shields.io/badge/behance-FCFCFC?style=for-the-badge&logo=behance&logoColor=0057FF)](https://www.behance.net/akineyshen/appreciated)
