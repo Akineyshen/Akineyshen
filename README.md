@@ -1,8 +1,10 @@
-![Image](image/GitHub.gif)
+![Image](GIF/BannerGitHub.gif)
 
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
-## ꜱᴛᴀᴄᴋ
+<details>
+  <summary><h1>Stack</h1></summary>
+
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
@@ -12,6 +14,8 @@
 ![OracleSQL](https://img.shields.io/badge/SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
+
+</details>
 
 ## ᴘʀᴏɢʀᴀᴍꜱ
 ![JetBrains](https://img.shields.io/badge/JetBrains-FCFCFC?style=for-the-badge&logo=jetbrains&logoColor=000)
