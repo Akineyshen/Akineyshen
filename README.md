@@ -1,4 +1,4 @@
-![Image](image/Promo.gif)
+![Image](image/GitHub.gif)
 
 ## I`m a student at the Bialystok University of Technology. Studying frontend development, Java programming, and Graphic Design.
 
