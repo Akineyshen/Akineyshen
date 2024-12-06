@@ -2,17 +2,23 @@
 
 ## Student at Bialystok University of Technology, studying full-stack development, Java, and Graphic Design.
 
-## 📚 ꜱᴛᴀᴄᴋ
+## ꜱᴛᴀᴄᴋ
 
-![Static Badge](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages%3A-1E3A8A?style=for-the-badge&logo=Java)
+![ProgrammingLanguages](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages%3A-1E3A8A?style=for-the-badge&logo=Java)
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-FCFCFC?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-FCFCFC?style=for-the-badge&logo=css3&logoColor=264DE4)
 
+![FrameworksAndLibraries](https://img.shields.io/badge/%F0%9F%93%9A%20Frameworks%20and%20libraries:-3B82F6?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-FCFCFC?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-FCFCFC?style=for-the-badge&logo=nodedotjs)
-![OracleSQL](https://img.shields.io/badge/SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
+
+![Databases](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Databases%3A-60A5FA?style=for-the-badge)
+![OracleSQL](https://img.shields.io/badge/Oracle_SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
+
+![Static Badge](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Tools%20and%20Systems%3A-7BB9F4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
 
