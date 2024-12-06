@@ -2,7 +2,7 @@
 
 ## Student at Bialystok University of Technology, studying full-stack development, Java, and Graphic Design.
 
-## ꜱᴛᴀᴄᴋ
+## 🗃 ꜱᴛᴀᴄᴋ
 
 ![ProgrammingLanguages](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages%3A-1E3A8A?style=for-the-badge&logo=Java)
 ![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
 
-## ᴘʀᴏɢʀᴀᴍꜱ
+## 💾 ᴘʀᴏɢʀᴀᴍꜱ
 ![Code](https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20code%3A-9B1C1C?style=for-the-badge)
 ![JetBrains](https://img.shields.io/badge/JetBrains-FCFCFC?style=for-the-badge&logo=jetbrains&logoColor=000)
 ![VisualStudioCode](https://img.shields.io/badge/VS%20Code-FCFCFC?style=for-the-badge&logo=lintcode)
@@ -37,7 +37,7 @@
 ![AfterEffcets](https://img.shields.io/badge/AfterEffects-FCFCFC?style=for-the-badge&logo=adobeaftereffects)
 ![Filmora](https://img.shields.io/badge/Filmora-FCFCFC?style=for-the-badge&logo=wondersharefilmora&logoColor=%2307273D)
 
-## ᴅᴇꜱɪɢɴ ᴘᴏʀᴛꜰᴏʟɪᴏ
+## 🖌 ᴅᴇꜱɪɢɴ ᴘᴏʀᴛꜰᴏʟɪᴏ
 [![Behance](https://img.shields.io/badge/behance-FCFCFC?style=for-the-badge&logo=behance&logoColor=0057FF)](https://www.behance.net/akineyshen/appreciated)
 ![Dribbble](https://img.shields.io/badge/dribbble-FCFCFC?style=for-the-badge&logo=dribbble)
 
