@@ -19,6 +19,7 @@
 ![Tools](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Tools%20and%20Systems%3A-3B82F6?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
+![Jira](https://img.shields.io/badge/jira-FCFCFC?style=for-the-badge&logo=jira&logoColor=0052CC)
 
 ![Databases](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Databases%3A-4D97F1?style=for-the-badge)
 ![OracleSQL](https://img.shields.io/badge/Oracle_SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
