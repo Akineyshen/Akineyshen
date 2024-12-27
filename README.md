@@ -1,4 +1,4 @@
-![Image](GIF/BannerGitHub.gif)
+![Image](GIF/GitHub_Banner.gif)
 
 ## Student at Bialystok University of Technology, studying full-stack development, Java, and Graphic Design.
 
