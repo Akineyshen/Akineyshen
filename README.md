@@ -41,8 +41,8 @@
 ![VisualStudioCode](https://img.shields.io/badge/VS%20Code-FCFCFC?style=for-the-badge&logo=lintcode)
 
 ## ᴅᴇꜱɪɢɴ ᴘᴏʀᴛꜰᴏʟɪᴏ
-[![Behance](https://img.shields.io/badge/behance-FCFCFC?style=for-the-badge&logo=behance&logoColor=0057FF)](https://www.behance.net/akineyshen/appreciated)
-![Dribbble](https://img.shields.io/badge/dribbble-FCFCFC?style=for-the-badge&logo=dribbble)
+[![Behance](https://img.shields.io/badge/behance-FCFCFC?style=for-the-badge&logo=behance&logoColor=0057FF)](https://www.behance.net/akineyshen)
+[![Dribbble](https://img.shields.io/badge/dribbble-FCFCFC?style=for-the-badge&logo=dribbble)](https://dribbble.com/Akineyshen)
 
 
 ## ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
