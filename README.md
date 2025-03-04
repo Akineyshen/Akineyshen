@@ -22,7 +22,9 @@
 ![Jira](https://img.shields.io/badge/jira-FCFCFC?style=for-the-badge&logo=jira&logoColor=0052CC)
 
 ![Databases](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Databases%3A-4D97F1?style=for-the-badge)
-![OracleSQL](https://img.shields.io/badge/Oracle_SQL-FCFCFC?style=for-the-badge&logo=oracle&logoColor=000)
+![Firebase](https://img.shields.io/badge/firebase-FCFCFC?style=for-the-badge&logo=firebase&logoColor=%23DD2C00)
+![SQL](https://img.shields.io/badge/SQL-FCFCFC?style=for-the-badge&logo=datagrip&logoColor=%23000000
+)
 
 ## ᴘʀᴏɢʀᴀᴍꜱ
 ![Design](https://img.shields.io/badge/%F0%9F%8E%A8%20Design%3A-60A5FA?style=for-the-badge)
