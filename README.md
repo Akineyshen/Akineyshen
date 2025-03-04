@@ -1,4 +1,4 @@
-![Image](GIF/GitHub_Banner.gif)
+![Image](GIF/Banner_GitHub.gif)
 
 ## Student at Bialystok University of Technology, studying full-stack development, Java, and Graphic Design.
 
@@ -27,11 +27,11 @@
 ## ᴘʀᴏɢʀᴀᴍꜱ
 ![Design](https://img.shields.io/badge/%F0%9F%8E%A8%20Design%3A-60A5FA?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-FCFCFC?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-FCFCFC?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-FCFCFC?style=for-the-badge&logo=adobeillustrator)
+![Photoshop](https://img.shields.io/badge/Photoshop-FCFCFC?style=for-the-badge&logo=phpstorm&logoColor=%232259FF)
+![Illustrator](https://img.shields.io/badge/illustrator-FCFCFC?style=for-the-badge&logo=pointy&logoColor=%23FF4D00)
 
 ![Video](https://img.shields.io/badge/%F0%9F%8E%AC%20Video%3A-6FA8F4?style=for-the-badge)
-![AfterEffcets](https://img.shields.io/badge/AfterEffects-FCFCFC?style=for-the-badge&logo=adobeaftereffects)
+![AfterEffcets](https://img.shields.io/badge/AfterEffects-FCFCFC?style=for-the-badge&logo=e&logoColor=%234B275F)
 ![Filmora](https://img.shields.io/badge/Filmora-FCFCFC?style=for-the-badge&logo=wondersharefilmora&logoColor=%2307273D)
 
 ![Code](https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20code%3A-7BB9F4?style=for-the-badge)
@@ -44,9 +44,9 @@
 
 
 ## ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
-[![Linkedin](https://img.shields.io/badge/linkedin-FCFCFC?style=for-the-badge&logo=linkedin&logoColor=015E94)](https://www.linkedin.com/in/akineyshen/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-FCFCFC?style=for-the-badge&logo=invision&logoColor=015E94)](https://www.linkedin.com/in/akineyshen/)
 [![Telegram](https://img.shields.io/badge/telegram-FCFCFC?style=for-the-badge&logo=telegram)](https://t.me/Akineyshen)
-[![Instagram](https://img.shields.io/badge/instagram-FCFCFC?style=for-the-badge&logo=instagram)](https://www.instagram.com/aki.neyshen/)
+[![Instagram](https://img.shields.io/badge/Instagram-FCFCFC?style=for-the-badge&logo=instagram&logoColor=FF3366)](https://www.instagram.com/aki.neyshen/)
 [![Facebook](https://img.shields.io/badge/facebook-FCFCFC?style=for-the-badge&logo=facebook&logoColor=0056A1)](https://www.facebook.com/akineyshen)
 
 
