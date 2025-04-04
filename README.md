@@ -1,7 +1,5 @@
 ![Image](GIF/Banner_GitHub.gif)
 
-## Student at Bialystok University of Technology, studying full-stack development, Java, and Graphic Design.
-
 ## ꜱᴛᴀᴄᴋ
 
 ![ProgrammingLanguages](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages%3A-1E3A8A?style=for-the-badge&logo=Java)
