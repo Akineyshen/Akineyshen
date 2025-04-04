@@ -3,21 +3,23 @@
 ## ꜱᴛᴀᴄᴋ
 
 ![ProgrammingLanguages](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages%3A-1E3A8A?style=for-the-badge&logo=Java)
-![Java](https://img.shields.io/badge/Java-FCFCFC?style=for-the-badge&logo=openjdk&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-FCFCFC?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-FCFCFC?style=for-the-badge&logo=css3&logoColor=264DE4)
 
 ![FrameworksAndLibraries](https://img.shields.io/badge/%F0%9F%93%9A%20Frameworks%20and%20libraries:-2A58B6?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-FCFCFC?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-FCFCFC?style=for-the-badge&logo=angular&logoColor=ED1D24)
 ![Node.js](https://img.shields.io/badge/Node.js-FCFCFC?style=for-the-badge&logo=nodedotjs)
-![Django](https://img.shields.io/badge/django-FCFCFC?style=for-the-badge&logo=django&logoColor=092E20)
+![Nest.js](https://img.shields.io/badge/Nest.js-FCFCFC?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 
 ![Tools](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Tools%20and%20Systems%3A-3B82F6?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-FCFCFC?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FCFCFC?style=for-the-badge&logo=docker)
 ![Jira](https://img.shields.io/badge/jira-FCFCFC?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Confluence](https://img.shields.io/badge/Confluence-FCFCFC?style=for-the-badge&logo=confluence&logoColor=0052CC)
+![BitBucket](https://img.shields.io/badge/Bitbucket-FCFCFC?style=for-the-badge&logo=bitbucket&logoColor=0052CC)
+
 
 ![Databases](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20Databases%3A-4D97F1?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/firebase-FCFCFC?style=for-the-badge&logo=firebase&logoColor=%23DD2C00)
