@@ -4,6 +4,7 @@
 
 ![ProgrammingLanguages](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20Programming%20languages%3A-1E3A8A?style=for-the-badge&logo=Java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCFCFC?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/typescript-FCFCFC?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![HTML](https://img.shields.io/badge/HTML-FCFCFC?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-FCFCFC?style=for-the-badge&logo=css3&logoColor=264DE4)
 
