@@ -52,6 +52,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FCFCFC?style=for-the-badge&logo=instagram&logoColor=FF3366)](https://www.instagram.com/aki.neyshen/)
 [![Facebook](https://img.shields.io/badge/facebook-FCFCFC?style=for-the-badge&logo=facebook&logoColor=0056A1)](https://www.facebook.com/akineyshen)
 
+## ᴄᴠ
+[![EN](https://img.shields.io/badge/English-FCFCFC?style=for-the-badge&logo=readdotcv&logoColor=0A2F5E)](https://drive.google.com/file/d/1QqyhnB5U3soB-LTMx9S0HlnoPQto6DbD/view?usp=sharing)
+[![PL](https://img.shields.io/badge/Polish-FCFCFC?style=for-the-badge&logo=readdotcv&logoColor=DC143C)](https://drive.google.com/file/d/19FoNIr7YQ5976IXfoba34OTnl-9kK5mi/view?usp=sharing)
+[![RU](https://img.shields.io/badge/Russian-FCFCFC?style=for-the-badge&logo=readdotcv&logoColor=0039A6)](https://drive.google.com/file/d/1OvThNER_g_1eiT0ksxpS6-cyacWr4dgh/view?usp=sharing)
 
 ## ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ
 <a href="https://github.com/anuraghazra/github-readme-stats">
